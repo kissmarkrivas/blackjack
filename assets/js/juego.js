@@ -154,3 +154,4 @@
   }
 
  })();
+ //use https://www.toptal.com/developers/javascript-minifier
